@@ -1,0 +1,430 @@
+﻿AcademicYear,AggregateLevel,CountyCode,DistrictCode,CDCode,SchoolCode,CountyName,DistrictName,SchoolName,CharterSchool,AlternativeSchoolAccountabilityStatus,ReportingCategory,CompleterType,High School Completers,Enrolled In College - Total (12 Months),College Going Rate - Total (12 Months),Enrolled In-State (12 Months),Enrolled Out-of-State (12 Months),Not Enrolled In College (12 Months),Enrolled UC (12 Months),Enrolled CSU (12 Months),Enrolled CCC (12 Months),Enrolled In-State Private (2 and 4 Year) (12 Months),Enrolled Out-of-State 4-Year College (Public/Private) (12 Months),Enrolled Out-of-State 2-Year College (Public/Private) (12 Months)
+2020-21,D,12,75374,1275374,0,Humboldt,Ferndale Unified,District Office,All,All,TA,AGY,11,10,90.9,7,3,1,0,5,1,1,2,1
+2020-21,D,17,64055,1764055,0,Lake,Middletown Unified,District Office,All,All,TA,AGY,11,6,54.5,4,2,5,1,1,2,0,2,0
+2020-21,D,17,76976,1776976,0,Lake,Upper Lake Unified,District Office,All,All,TA,AGY,11,8,72.7,8,0,3,1,4,3,0,0,0
+2020-21,D,37,68171,3768171,0,San Diego,Julian Union High,District Office,All,All,TA,AGY,11,9,81.8,5,4,2,2,1,2,0,4,0
+2020-21,D,19,77289,1977289,0,Los Angeles,SBE - Los Angeles College Prep Academy,District Office,All,All,TA,AGY,12,8,66.7,8,0,4,1,5,2,0,0,0
+2020-21,D,47,10470,4710470,0,Siskiyou,Siskiyou County Office of Education,District Office,All,All,TA,AGY,12,6,50,6,0,6,1,1,3,1,0,0
+2020-21,D,54,71803,5471803,0,Tulare,Alpaugh Unified,District Office,All,All,TA,AGY,12,8,66.7,7,1,4,0,2,5,0,1,0
+2020-21,D,49,70797,4970797,0,Sonoma,Liberty Elementary,District Office,All,All,TA,AGY,13,6,46.2,5,1,7,1,1,3,0,1,0
+2020-21,D,49,70961,4970961,0,Sonoma,Twin Hills Union Elementary,District Office,All,All,TA,AGY,13,9,69.2,8,1,4,1,1,6,0,0,1
+2020-21,D,56,72553,5672553,0,Ventura,Pleasant Valley,District Office,All,All,TA,AGY,13,8,61.5,7,1,5,0,1,6,0,0,1
+2020-21,D,25,73593,2573593,0,Modoc,Tulelake Basin Joint Unified,District Office,All,All,TA,AGY,14,11,78.6,9,2,3,0,7,2,0,2,0
+2020-21,D,37,77032,3777032,0,San Diego,SBE - Audeo Charter II,District Office,All,All,TA,AGY,14,7,50,5,2,7,2,0,2,1,2,0
+2020-21,D,44,75432,4475432,0,Santa Cruz,Scotts Valley Unified,District Office,All,All,TA,AGY,14,8,57.1,6,2,6,1,1,1,3,2,0
+2020-21,D,45,70110,4570110,0,Shasta,Redding Elementary,District Office,All,All,TA,AGY,15,8,53.3,6,2,7,0,0,6,0,2,0
+2020-21,D,7,61663,761663,0,Contra Costa,Byron Union Elementary,District Office,All,All,TA,AGY,17,12,70.6,12,0,5,1,1,8,2,0,0
+2020-21,D,17,64030,1764030,0,Lake,Lakeport Unified,District Office,All,All,TA,AGY,17,13,76.5,13,0,4,3,2,8,0,0,0
+2020-21,D,30,76893,3076893,0,Orange,SBE - Magnolia Science Academy Santa Ana,District Office,All,All,TA,AGY,17,13,76.5,13,0,4,5,1,5,2,0,0
+2020-21,D,41,10413,4110413,0,San Mateo,San Mateo County Office of Education,District Office,All,All,TA,AGY,17,15,88.2,14,1,2,4,8,1,1,1,0
+2020-21,D,52,71571,5271571,0,Tehama,Los Molinos Unified,District Office,All,All,TA,AGY,17,12,70.6,10,2,5,3,1,6,0,1,1
+2020-21,D,55,72389,5572389,0,Tuolumne,Sonora Union High,District Office,All,All,TA,AGY,17,16,94.1,15,1,1,1,2,11,1,1,0
+2020-21,D,58,72728,5872728,0,Yuba,Camptonville Elementary,District Office,All,All,TA,AGY,17,11,64.7,10,1,6,2,1,7,0,1,0
+2020-21,D,21,73361,2173361,0,Marin,Shoreline Unified,District Office,All,All,TA,AGY,18,15,83.3,14,1,3,3,7,4,0,1,0
+2020-21,D,34,10348,3410348,0,Sacramento,Sacramento County Office of Education,District Office,All,All,TA,AGY,18,13,72.2,12,1,5,0,9,2,1,1,0
+2020-21,D,41,68916,4168916,0,San Mateo,Jefferson Elementary,District Office,All,All,TA,AGY,18,9,50,8,1,9,1,4,2,1,0,1
+2020-21,D,15,75168,1575168,0,Kern,El Tejon Unified,District Office,All,All,TA,AGY,19,17,89.5,14,3,2,1,4,4,5,3,0
+2020-21,D,37,67983,3767983,0,San Diego,Borrego Springs Unified,District Office,All,All,TA,AGY,20,12,60,10,2,8,0,4,6,0,0,2
+2020-21,D,45,69989,4569989,0,Shasta,Fall River Joint Unified,District Office,All,All,TA,AGY,20,16,80,12,4,4,1,2,9,0,4,0
+2020-21,D,40,75465,4075465,0,San Luis Obispo,Coast Unified,District Office,All,All,TA,AGY,21,14,66.7,13,1,7,3,4,6,0,1,0
+2020-21,D,51,71415,5171415,0,Sutter,Meridian Elementary,District Office,All,All,TA,AGY,21,13,61.9,11,2,8,1,3,6,1,2,0
+2020-21,D,10,10108,1010108,0,Fresno,Fresno County Office of Education,District Office,All,All,TA,AGY,22,16,72.7,14,2,6,1,2,9,2,2,0
+2020-21,D,10,62281,1062281,0,Fresno,Laton Joint Unified,District Office,All,All,TA,AGY,22,20,90.9,20,0,2,4,5,11,0,0,0
+2020-21,D,11,76562,1176562,0,Glenn,Hamilton Unified,District Office,All,All,TA,AGY,22,17,77.3,16,1,5,2,6,8,0,1,0
+2020-21,D,50,71068,5071068,0,Stanislaus,Denair Unified,District Office,All,All,TA,AGY,22,18,81.8,18,0,4,2,6,10,0,0,0
+2020-21,D,57,72686,5772686,0,Yolo,Esparto Unified,District Office,All,All,TA,AGY,22,17,77.3,16,1,5,1,7,8,0,1,0
+2020-21,D,9,61838,961838,0,El Dorado,Buckeye Union Elementary,District Office,All,All,TA,AGY,23,12,52.2,11,1,11,1,2,5,3,1,0
+2020-21,D,10,62364,1062364,0,Fresno,Parlier Unified,District Office,All,All,TA,AGY,23,20,87,20,0,3,0,7,12,1,0,0
+2020-21,D,26,73668,2673668,0,Mono,Eastern Sierra Unified,District Office,All,All,TA,AGY,23,14,60.9,13,1,9,0,5,5,3,1,0
+2020-21,D,47,76455,4776455,0,Siskiyou,Scott Valley Unified,District Office,All,All,TA,AGY,23,19,82.6,12,7,4,1,3,7,1,7,0
+2020-21,D,9,73783,973783,0,El Dorado,Black Oak Mine Unified,District Office,All,All,TA,AGY,24,19,79.2,17,2,5,2,5,10,0,2,0
+2020-21,D,37,75416,3775416,0,San Diego,Warner Unified,District Office,All,All,TA,AGY,24,13,54.2,9,4,11,0,2,7,0,4,0
+2020-21,D,51,71407,5171407,0,Sutter,Marcum-Illinois Union Elementary,District Office,All,All,TA,AGY,25,17,68,15,2,8,4,0,11,0,2,0
+2020-21,D,4,61531,461531,0,Butte,Paradise Unified,District Office,All,All,TA,AGY,27,25,92.6,25,0,2,2,5,17,1,0,0
+2020-21,D,13,63107,1363107,0,Imperial,Calipatria Unified,District Office,All,All,TA,AGY,27,22,81.5,20,2,5,1,5,14,0,2,0
+2020-21,D,15,63685,1563685,0,Kern,Muroc Joint Unified,District Office,All,All,TA,AGY,27,22,81.5,16,6,5,6,4,4,2,5,1
+2020-21,D,23,65581,2365581,0,Mendocino,Mendocino Unified,District Office,All,All,TA,AGY,27,22,81.5,19,3,5,6,7,6,0,2,1
+2020-21,D,36,73890,3673890,0,San Bernardino,Silver Valley Unified,District Office,All,All,TA,AGY,27,18,66.7,11,7,9,1,1,9,0,5,2
+2020-21,D,6,61622,661622,0,Colusa,Williams Unified,District Office,All,All,TA,AGY,28,19,67.9,19,0,9,5,9,5,0,0,0
+2020-21,D,51,71373,5171373,0,Sutter,East Nicolaus Joint Union High,District Office,All,All,TA,AGY,28,24,85.7,23,1,4,1,3,18,1,1,0
+2020-21,D,54,71837,5471837,0,Tulare,Burton Elementary,District Office,All,All,TA,AGY,28,21,75,20,1,7,3,3,11,3,1,0
+2020-21,D,1,61168,161168,0,Alameda,Emery Unified,District Office,All,All,TA,AGY,29,22,75.9,20,2,7,3,5,10,2,2,0
+2020-21,D,37,76851,3776851,0,San Diego,Bonsall Unified,District Office,All,All,TA,AGY,29,22,75.9,19,3,7,4,3,12,0,2,1
+2020-21,D,28,66241,2866241,0,Napa,Calistoga Joint Unified,District Office,All,All,TA,AGY,30,29,96.7,28,1,1,7,10,10,1,1,0
+2020-21,D,15,63677,1563677,0,Kern,Mojave Unified,District Office,All,All,TA,AGY,31,21,67.7,18,3,10,2,6,9,1,3,0
+2020-21,D,23,65565,2365565,0,Mendocino,Fort Bragg Unified,District Office,All,All,TA,AGY,31,27,87.1,19,8,4,4,4,9,2,7,1
+2020-21,D,53,76513,5376513,0,Trinity,Trinity Alps Unified,District Office,All,All,TA,AGY,31,24,77.4,18,6,7,1,3,14,0,6,0
+2020-21,D,17,64014,1764014,0,Lake,Kelseyville Unified,District Office,All,All,TA,AGY,32,28,87.5,26,2,4,6,10,10,0,2,0
+2020-21,D,17,64022,1764022,0,Lake,Konocti Unified,District Office,All,All,TA,AGY,32,25,78.1,25,0,7,5,2,17,1,0,0
+2020-21,D,4,10041,410041,0,Butte,Butte County Office of Education,District Office,All,All,TA,AGY,34,27,79.4,18,9,7,1,5,11,1,6,3
+2020-21,D,15,63776,1563776,0,Kern,Southern Kern Unified,District Office,All,All,TA,AGY,34,24,70.6,21,3,10,3,3,14,1,2,1
+2020-21,D,6,61614,661614,0,Colusa,Pierce Joint Unified,District Office,All,All,TA,AGY,35,29,82.9,23,6,6,4,6,13,0,4,2
+2020-21,D,26,73692,2673692,0,Mono,Mammoth Unified,District Office,All,All,TA,AGY,36,29,80.6,25,4,7,10,7,8,0,4,0
+2020-21,D,57,72702,5772702,0,Yolo,Winters Joint Unified,District Office,All,All,TA,AGY,36,30,83.3,26,4,6,3,8,14,1,4,0
+2020-21,D,10,75275,1075275,0,Fresno,Sierra Unified,District Office,All,All,TA,AGY,37,33,89.2,28,5,4,3,10,15,0,5,0
+2020-21,D,20,75606,2075606,0,Madera,Chawanakee Unified,District Office,All,All,TA,AGY,37,27,73,25,2,10,3,4,16,2,2,0
+2020-21,D,36,67827,3667827,0,San Bernardino,Oro Grande,District Office,All,All,TA,AGY,38,34,89.5,26,8,4,4,10,11,1,8,0
+2020-21,D,32,66969,3266969,0,Plumas,Plumas Unified,District Office,All,All,TA,AGY,39,31,79.5,22,9,8,3,3,14,2,8,1
+2020-21,D,8,61820,861820,0,Del Norte,Del Norte County Unified,District Office,All,All,TA,AGY,40,37,92.5,31,6,3,7,5,19,0,5,1
+2020-21,D,24,73619,2473619,0,Merced,Gustine Unified,District Office,All,All,TA,AGY,41,28,68.3,28,0,13,3,15,10,0,0,0
+2020-21,D,6,61598,661598,0,Colusa,Colusa Unified,District Office,All,All,TA,AGY,42,38,90.5,30,8,4,4,7,19,0,8,0
+2020-21,D,37,10371,3710371,0,San Diego,San Diego County Office of Education,District Office,All,All,TA,AGY,43,33,76.7,20,13,10,4,5,10,1,10,3
+2020-21,D,37,68213,3768213,0,San Diego,Mountain Empire Unified,District Office,All,All,TA,AGY,43,27,62.8,23,4,16,3,3,16,1,3,1
+2020-21,D,37,68403,3768403,0,San Diego,Spencer Valley Elementary,District Office,All,All,TA,AGY,43,24,55.8,19,5,19,1,2,14,2,2,3
+2020-21,D,49,70656,4970656,0,Sonoma,Cloverdale Unified,District Office,All,All,TA,AGY,43,31,72.1,27,4,12,3,7,17,0,4,0
+2020-21,D,7,61697,761697,0,Contra Costa,John Swett Unified,District Office,All,All,TA,AGY,44,35,79.5,33,2,9,9,8,15,1,1,1
+2020-21,D,12,10124,1210124,0,Humboldt,Humboldt County Office of Education,District Office,All,All,TA,AGY,44,34,77.3,23,11,10,5,13,4,1,11,0
+2020-21,D,22,65532,2265532,0,Mariposa,Mariposa County Unified,District Office,All,All,TA,AGY,44,33,75,29,4,11,7,9,13,0,4,0
+2020-21,D,24,75317,2475317,0,Merced,Dos Palos Oro Loma Joint Unified,District Office,All,All,TA,AGY,44,38,86.4,32,6,6,3,16,13,0,6,0
+2020-21,D,39,10397,3910397,0,San Joaquin,San Joaquin County Office of Education,District Office,All,All,TA,AGY,44,39,88.6,33,6,5,9,10,10,4,6,0
+2020-21,D,47,70466,4770466,0,Siskiyou,Siskiyou Union High,District Office,All,All,TA,AGY,44,35,79.5,27,8,9,5,2,18,2,8,0
+2020-21,D,4,61432,461432,0,Butte,Durham Unified,District Office,All,All,TA,AGY,45,41,91.1,34,7,4,2,9,23,0,6,1
+2020-21,D,10,75598,1075598,0,Fresno,Caruthers Unified,District Office,All,All,TA,AGY,45,31,68.9,28,3,14,1,15,11,1,3,0
+2020-21,D,5,61556,561556,0,Calaveras,Bret Harte Union High,District Office,All,All,TA,AGY,46,37,80.4,26,11,9,4,7,15,0,10,1
+2020-21,D,23,65623,2365623,0,Mendocino,Willits Unified,District Office,All,All,TA,AGY,46,34,73.9,29,5,12,8,3,17,1,4,1
+2020-21,D,36,67611,3667611,0,San Bernardino,Barstow Unified,District Office,All,All,TA,AGY,47,36,76.6,34,2,11,2,2,30,0,2,0
+2020-21,D,7,77354,777354,0,Contra Costa,SBE - John Henry High,District Office,All,All,TA,AGY,48,36,75,36,0,12,8,17,10,1,0,0
+2020-21,D,11,62661,1162661,0,Glenn,Willows Unified,District Office,All,All,TA,AGY,48,44,91.7,40,4,4,3,8,28,1,4,0
+2020-21,D,34,73973,3473973,0,Sacramento,Center Joint Unified,District Office,All,All,TA,AGY,48,41,85.4,37,4,7,4,6,27,0,4,0
+2020-21,D,18,64139,1864139,0,Lassen,Lassen Union High,District Office,All,All,TA,AGY,49,42,85.7,23,19,7,1,0,22,0,18,1
+2020-21,D,19,76968,1976968,0,Los Angeles,SBE - Academia Avance Charter,District Office,All,All,TA,AGY,49,36,73.5,32,4,13,18,11,1,2,1,3
+2020-21,D,5,61564,561564,0,Calaveras,Calaveras Unified,District Office,All,All,TA,AGY,51,45,88.2,36,9,6,7,4,21,4,9,0
+2020-21,D,11,75481,1175481,0,Glenn,Orland Joint Unified,District Office,All,All,TA,AGY,52,45,86.5,42,3,7,6,12,23,1,2,1
+2020-21,D,14,10140,1410140,0,Inyo,Inyo County Office of Education,District Office,All,All,TA,AGY,52,17,32.7,17,0,35,0,9,6,2,0,0
+2020-21,D,45,75267,4575267,0,Shasta,Gateway Unified,District Office,All,All,TA,AGY,53,37,69.8,30,7,16,3,0,26,1,7,0
+2020-21,D,4,75507,475507,0,Butte,Gridley Unified,District Office,All,All,TA,AGY,54,50,92.6,44,6,4,3,20,21,0,6,0
+2020-21,D,10,75408,1075408,0,Fresno,Riverdale Joint Unified,District Office,All,All,TA,AGY,54,46,85.2,45,1,8,6,13,23,3,1,0
+2020-21,D,15,63826,1563826,0,Kern,Tehachapi Unified,District Office,All,All,TA,AGY,54,47,87,34,13,7,6,5,15,8,12,1
+2020-21,D,24,65730,2465730,0,Merced,Le Grand Union High,District Office,All,All,TA,AGY,55,45,81.8,44,1,10,11,11,22,0,1,0
+2020-21,D,50,75572,5075572,0,Stanislaus,Waterford Unified,District Office,All,All,TA,AGY,55,40,72.7,40,0,15,13,12,13,2,0,0
+2020-21,D,54,75325,5475325,0,Tulare,Farmersville Unified,District Office,All,All,TA,AGY,56,43,76.8,42,1,13,6,8,28,0,1,0
+2020-21,D,47,70516,4770516,0,Siskiyou,Yreka Union High,District Office,All,All,TA,AGY,58,43,74.1,28,15,15,2,8,15,3,13,2
+2020-21,D,55,72413,5572413,0,Tuolumne,Summerville Union High,District Office,All,All,TA,AGY,58,44,75.9,36,8,14,3,5,25,3,7,1
+2020-21,D,15,63818,1563818,0,Kern,Taft Union High,District Office,All,All,TA,AGY,59,45,76.3,41,4,14,3,3,35,0,3,1
+2020-21,D,20,75580,2075580,0,Madera,Golden Valley Unified,District Office,All,All,TA,AGY,60,44,73.3,36,8,16,6,10,19,1,8,0
+2020-21,D,54,71993,5471993,0,Tulare,Lindsay Unified,District Office,All,All,TA,AGY,60,38,63.3,37,1,22,0,9,28,0,1,0
+2020-21,D,4,61515,461515,0,Butte,Oroville Union High,District Office,All,All,TA,AGY,61,57,93.4,51,6,4,6,12,30,3,6,0
+2020-21,D,50,75549,5075549,0,Stanislaus,Hughson Unified,District Office,All,All,TA,AGY,61,56,91.8,47,9,5,12,15,19,1,9,0
+2020-21,D,10,73809,1073809,0,Fresno,Firebaugh-Las Deltas Unified,District Office,All,All,TA,AGY,62,56,90.3,55,1,6,2,22,29,2,0,1
+2020-21,D,10,75234,1075234,0,Fresno,Golden Plains Unified,District Office,All,All,TA,AGY,62,34,54.8,34,0,28,3,19,10,2,0,0
+2020-21,D,14,76687,1476687,0,Inyo,Bishop Unified,District Office,All,All,TA,AGY,64,40,62.5,21,19,24,7,5,9,0,16,3
+2020-21,D,36,67637,3667637,0,San Bernardino,Bear Valley Unified,District Office,All,All,TA,AGY,64,43,67.2,28,15,21,4,5,13,6,14,1
+2020-21,D,42,69146,4269146,0,Santa Barbara,Carpinteria Unified,District Office,All,All,TA,AGY,64,54,84.4,51,3,10,5,7,34,5,3,0
+2020-21,D,50,75556,5075556,0,Stanislaus,Riverbank Unified,District Office,All,All,TA,AGY,64,60,93.8,57,3,4,13,29,12,3,3,0
+2020-21,D,15,63628,1563628,0,Kern,Maricopa Unified,District Office,All,All,TA,AGY,65,42,64.6,35,7,23,7,2,23,3,5,2
+2020-21,D,58,72769,5872769,0,Yuba,Wheatland Union High,District Office,All,All,TA,AGY,65,52,80,44,8,13,8,18,18,0,8,0
+2020-21,D,28,66290,2866290,0,Napa,Saint Helena Unified,District Office,All,All,TA,AGY,66,57,86.4,44,13,9,10,11,22,1,13,0
+2020-21,D,33,67181,3367181,0,Riverside,Palo Verde Unified,District Office,All,All,TA,AGY,66,49,74.2,33,16,17,10,4,16,3,16,0
+2020-21,D,33,67116,3367116,0,Riverside,Menifee Union Elementary,District Office,All,All,TA,AGY,67,54,80.6,42,12,13,2,12,19,9,12,0
+2020-21,D,36,67868,3667868,0,San Bernardino,Rim of the World Unified,District Office,All,All,TA,AGY,68,57,83.8,44,13,11,10,16,15,3,12,1
+2020-21,D,51,71399,5171399,0,Sutter,Live Oak Unified,District Office,All,All,TA,AGY,69,62,89.9,60,2,7,8,31,21,0,2,0
+2020-21,D,10,75127,1075127,0,Fresno,Mendota Unified,District Office,All,All,TA,AGY,71,50,70.4,50,0,21,8,28,10,4,0,0
+2020-21,D,39,68577,3968577,0,San Joaquin,Linden Unified,District Office,All,All,TA,AGY,72,66,91.7,59,7,6,5,22,27,5,7,0
+2020-21,D,16,63891,1663891,0,Kings,Corcoran Joint Unified,District Office,All,All,TA,AGY,74,62,83.8,60,2,12,6,14,39,1,2,0
+2020-21,D,20,65201,2065201,0,Madera,Chowchilla Union High,District Office,All,All,TA,AGY,74,53,71.6,49,4,21,8,12,25,4,4,0
+2020-21,D,16,73932,1673932,0,Kings,Reef-Sunset Unified,District Office,All,All,TA,AGY,75,49,65.3,49,0,26,8,20,20,1,0,0
+2020-21,D,36,10363,3610363,0,San Bernardino,San Bernardino County Office of Education,District Office,All,All,TA,AGY,75,57,76,50,7,18,8,7,28,7,5,2
+2020-21,D,37,68049,3768049,0,San Diego,Dehesa Elementary,District Office,All,All,TA,AGY,75,59,78.7,42,17,16,4,5,27,6,16,1
+2020-21,D,20,76414,2076414,0,Madera,Yosemite Unified,District Office,All,All,TA,AGY,76,50,65.8,43,7,26,3,20,19,1,7,0
+2020-21,D,24,65698,2465698,0,Merced,Hilmar Unified,District Office,All,All,TA,AGY,76,68,89.5,65,3,8,7,22,35,1,3,0
+2020-21,D,52,71506,5271506,0,Tehama,Corning Union High,District Office,All,All,TA,AGY,76,65,85.5,59,6,11,1,6,48,4,6,0
+2020-21,D,10,62125,1062125,0,Fresno,Coalinga-Huron Unified,District Office,All,All,TA,AGY,77,65,84.4,63,2,12,4,12,47,0,2,0
+2020-21,D,27,75473,2775473,0,Monterey,Gonzales Unified,District Office,All,All,TA,AGY,77,69,89.6,67,2,8,10,19,38,0,2,0
+2020-21,D,40,68841,4068841,0,San Luis Obispo,Templeton Unified,District Office,All,All,TA,AGY,77,71,92.2,49,22,6,6,16,23,4,21,1
+2020-21,D,49,75390,4975390,0,Sonoma,Healdsburg Unified,District Office,All,All,TA,AGY,77,72,93.5,59,13,5,11,24,20,4,13,0
+2020-21,D,54,76794,5476794,0,Tulare,Woodlake Unified,District Office,All,All,TA,AGY,78,62,79.5,62,0,16,6,18,35,3,0,0
+2020-21,D,27,66134,2766134,0,Monterey,Pacific Grove Unified,District Office,All,All,TA,AGY,80,71,88.8,56,15,9,15,8,33,0,15,0
+2020-21,D,36,67736,3667736,0,San Bernardino,Helendale Elementary,District Office,All,All,TA,AGY,81,49,60.5,43,6,32,6,7,23,7,5,1
+2020-21,D,39,68502,3968502,0,San Joaquin,Escalon Unified,District Office,All,All,TA,AGY,81,65,80.2,52,13,16,2,14,32,4,13,0
+2020-21,D,34,67413,3467413,0,Sacramento,River Delta Joint Unified,District Office,All,All,TA,AGY,84,72,85.7,70,2,12,4,36,27,3,2,0
+2020-21,D,19,76992,1976992,0,Los Angeles,SBE - Prepa Tec Los Angeles High,District Office,All,All,TA,AGY,85,40,47.1,39,1,45,4,8,21,6,1,0
+2020-21,D,56,72454,5672454,0,Ventura,Fillmore Unified,District Office,All,All,TA,AGY,85,73,85.9,64,9,12,4,20,38,2,9,0
+2020-21,D,19,64295,1964295,0,Los Angeles,Bassett Unified,District Office,All,All,TA,AGY,86,75,87.2,74,1,11,10,36,25,3,1,0
+2020-21,D,52,71639,5271639,0,Tehama,Red Bluff Joint Union High,District Office,All,All,TA,AGY,86,65,75.6,59,6,21,8,10,38,3,4,2
+2020-21,D,12,75515,1275515,0,Humboldt,Eureka City Schools,District Office,All,All,TA,AGY,87,76,87.4,66,10,11,8,25,32,1,10,0
+2020-21,D,12,62810,1262810,0,Humboldt,Fortuna Union High,District Office,All,All,TA,AGY,89,75,84.3,60,15,14,15,12,32,1,13,2
+2020-21,D,1,10017,110017,0,Alameda,Alameda County Office of Education,District Office,All,All,TA,AGY,92,63,68.5,61,2,29,11,27,20,3,2,0
+2020-21,D,50,71217,5071217,0,Stanislaus,Patterson Joint Unified,District Office,All,All,TA,AGY,92,80,87,78,2,12,14,32,26,6,2,0
+2020-21,D,15,73742,1573742,0,Kern,Sierra Sands Unified,District Office,All,All,TA,AGY,93,60,64.5,45,15,33,8,5,32,0,13,2
+2020-21,D,15,73908,1573908,0,Kern,McFarland Unified,District Office,All,All,TA,AGY,93,66,71,65,1,27,10,30,23,2,1,0
+2020-21,D,3,73981,373981,0,Amador,Amador County Unified,District Office,All,All,TA,AGY,95,84,88.4,70,14,11,7,19,39,5,14,0
+2020-21,D,51,71449,5171449,0,Sutter,Sutter Union High,District Office,All,All,TA,AGY,96,79,82.3,64,15,17,9,9,42,4,15,0
+2020-21,D,56,72520,5672520,0,Ventura,Ojai Unified,District Office,All,All,TA,AGY,97,80,82.5,64,16,17,10,12,40,2,16,0
+2020-21,D,24,75366,2475366,0,Merced,Delhi Unified,District Office,All,All,TA,AGY,98,71,72.4,71,0,27,15,43,13,0,0,0
+2020-21,D,19,64592,1964592,0,Los Angeles,Hawthorne,District Office,All,All,TA,AGY,99,91,91.9,87,4,8,26,31,25,5,4,0
+2020-21,D,19,75697,1975697,0,Los Angeles,SBE - The School of Arts and Enterprise,District Office,All,All,TA,AGY,100,56,56,48,8,44,2,6,37,3,7,1
+2020-21,D,9,61903,961903,0,El Dorado,Lake Tahoe Unified,District Office,All,All,TA,AGY,101,83,82.2,58,25,18,5,11,42,0,23,2
+2020-21,D,10,73999,1073999,0,Fresno,Kerman Unified,District Office,All,All,TA,AGY,101,90,89.1,85,5,11,15,37,32,1,5,0
+2020-21,D,33,66985,3366985,0,Riverside,Banning Unified,District Office,All,All,TA,AGY,101,67,66.3,60,7,34,17,10,22,11,7,0
+2020-21,D,42,69260,4269260,0,Santa Barbara,Orcutt Union Elementary,District Office,All,All,TA,AGY,103,95,92.2,84,11,8,10,19,51,4,11,0
+2020-21,D,13,63149,1363149,0,Imperial,Holtville Unified,District Office,All,All,TA,AGY,105,79,75.2,74,5,26,12,6,53,3,4,1
+2020-21,D,15,10157,1510157,0,Kern,Kern County Office of Education,District Office,All,All,TA,AGY,105,89,84.8,87,2,16,22,53,6,6,2,0
+2020-21,D,42,69328,4269328,0,Santa Barbara,Santa Ynez Valley Union High,District Office,All,All,TA,AGY,107,91,85,69,22,16,11,16,33,9,21,1
+2020-21,D,19,64691,1964691,0,Los Angeles,Lawndale Elementary,District Office,All,All,TA,AGY,108,90,83.3,83,7,18,19,38,25,1,6,1
+2020-21,D,33,67157,3367157,0,Riverside,Nuview Union,District Office,All,All,TA,AGY,108,75,69.4,71,4,33,31,20,12,8,4,0
+2020-21,D,54,76836,5476836,0,Tulare,Exeter Unified,District Office,All,All,TA,AGY,109,90,82.6,82,8,19,9,21,44,8,7,1
+2020-21,D,48,70532,4870532,0,Solano,Dixon Unified,District Office,All,All,TA,AGY,110,93,84.5,85,8,17,17,30,36,2,7,1
+2020-21,D,49,70904,4970904,0,Sonoma,Roseland,District Office,All,All,TA,AGY,110,92,83.6,91,1,18,17,49,24,1,1,0
+2020-21,D,10,76778,1076778,0,Fresno,Washington Unified,District Office,All,All,TA,AGY,112,87,77.7,84,3,25,9,44,25,6,3,0
+2020-21,D,13,63164,1363164,0,Imperial,Imperial Unified,District Office,All,All,TA,AGY,112,108,96.4,97,11,4,20,13,62,2,7,4
+2020-21,D,54,71860,5471860,0,Tulare,Cutler-Orosi Joint Unified,District Office,All,All,TA,AGY,112,95,84.8,94,1,17,15,49,28,2,0,1
+2020-21,D,39,68627,3968627,0,San Joaquin,New Jerusalem Elementary,District Office,All,All,TA,AGY,114,86,75.4,81,5,28,8,18,46,9,3,2
+2020-21,D,33,10330,3310330,0,Riverside,Riverside County Office of Education,District Office,All,All,TA,AGY,115,59,51.3,56,3,56,7,12,32,5,1,2
+2020-21,D,40,68700,4068700,0,San Luis Obispo,Atascadero Unified,District Office,All,All,TA,AGY,115,92,80,84,8,23,11,19,51,3,8,0
+2020-21,D,10,62257,1062257,0,Fresno,Kingsburg Joint Union High,District Office,All,All,TA,AGY,116,96,82.8,86,10,20,7,32,39,8,10,0
+2020-21,D,37,75614,3775614,0,San Diego,Valley Center-Pauma Unified,District Office,All,All,TA,AGY,116,90,77.6,78,12,26,6,18,53,1,11,1
+2020-21,D,50,73601,5073601,0,Stanislaus,Newman-Crows Landing Unified,District Office,All,All,TA,AGY,117,95,81.2,88,7,22,25,35,28,0,6,1
+2020-21,D,56,76828,5676828,0,Ventura,Santa Paula Unified,District Office,All,All,TA,AGY,118,107,90.7,105,2,11,16,27,58,4,2,0
+2020-21,D,10,62158,1062158,0,Fresno,Fowler Unified,District Office,All,All,TA,AGY,120,104,86.7,103,1,16,5,50,45,3,1,0
+2020-21,D,36,67777,3667777,0,San Bernardino,Morongo Unified,District Office,All,All,TA,AGY,123,92,74.8,69,23,31,20,7,36,6,20,3
+2020-21,D,19,75663,1975663,0,Los Angeles,SBE - New West Charter,District Office,All,All,TA,AGY,125,95,76,77,18,30,18,7,45,7,18,0
+2020-21,D,27,66068,2766068,0,Monterey,South Monterey County Joint Union High,District Office,All,All,TA,AGY,125,109,87.2,108,1,16,9,25,74,0,1,0
+2020-21,D,45,69856,4569856,0,Shasta,Anderson Union High,District Office,All,All,TA,AGY,125,93,74.4,81,12,32,7,14,60,0,12,0
+2020-21,D,44,69807,4469807,0,Santa Cruz,San Lorenzo Valley Unified,District Office,All,All,TA,AGY,127,102,80.3,70,32,25,11,17,40,2,31,1
+2020-21,D,40,75457,4075457,0,San Luis Obispo,Paso Robles Joint Unified,District Office,All,All,TA,AGY,128,110,85.9,95,15,18,10,30,51,4,15,0
+2020-21,D,15,63859,1563859,0,Kern,Wasco Union High,District Office,All,All,TA,AGY,135,94,69.6,90,4,41,21,38,27,4,3,1
+2020-21,D,50,75564,5075564,0,Stanislaus,Oakdale Joint Unified,District Office,All,All,TA,AGY,138,122,88.4,95,27,16,12,33,42,8,26,1
+2020-21,D,7,61739,761739,0,Contra Costa,Martinez Unified,District Office,All,All,TA,AGY,140,127,90.7,97,30,13,14,24,57,2,29,1
+2020-21,D,39,68650,3968650,0,San Joaquin,Ripon Unified,District Office,All,All,TA,AGY,142,118,83.1,93,25,24,7,34,43,9,24,1
+2020-21,D,27,65987,2765987,0,Monterey,Carmel Unified,District Office,All,All,TA,AGY,143,120,83.9,89,31,23,24,19,38,8,31,0
+2020-21,D,19,64857,1964857,0,Los Angeles,Palmdale Elementary,District Office,All,All,TA,AGY,144,122,84.7,106,16,22,7,35,61,3,16,0
+2020-21,D,10,62430,1062430,0,Fresno,Selma Unified,District Office,All,All,TA,AGY,147,106,72.1,104,2,41,18,38,45,3,2,0
+2020-21,D,49,75358,4975358,0,Sonoma,Windsor Unified,District Office,All,All,TA,AGY,149,121,81.2,94,27,28,15,29,40,10,26,1
+2020-21,D,27,75440,2775440,0,Monterey,Soledad Unified,District Office,All,All,TA,AGY,156,127,81.4,120,7,29,17,25,76,2,6,1
+2020-21,D,36,75051,3675051,0,San Bernardino,Lucerne Valley Unified,District Office,All,All,TA,AGY,157,77,49,64,13,80,6,4,43,11,12,1
+2020-21,D,49,70953,4970953,0,Sonoma,Sonoma Valley Unified,District Office,All,All,TA,AGY,159,137,86.2,112,25,22,23,36,44,9,24,1
+2020-21,D,23,65615,2365615,0,Mendocino,Ukiah Unified,District Office,All,All,TA,AGY,161,130,80.7,123,7,31,20,31,63,9,5,2
+2020-21,D,12,62687,1262687,0,Humboldt,Northern Humboldt Union High,District Office,All,All,TA,AGY,167,138,82.6,119,19,29,26,40,49,4,18,1
+2020-21,D,37,68122,3768122,0,San Diego,Fallbrook Union High,District Office,All,All,TA,AGY,168,120,71.4,112,8,48,16,44,47,5,8,0
+2020-21,D,19,75309,1975309,0,Los Angeles,Acton-Agua Dulce Unified,District Office,All,All,TA,AGY,170,120,70.6,102,18,50,11,30,47,14,18,0
+2020-21,D,19,64279,1964279,0,Los Angeles,Azusa Unified,District Office,All,All,TA,AGY,173,134,77.5,128,6,39,17,27,72,12,6,0
+2020-21,D,58,72736,5872736,0,Yuba,Marysville Joint Unified,District Office,All,All,TA,AGY,174,118,67.8,108,10,56,13,25,68,2,9,1
+2020-21,D,13,63081,1363081,0,Imperial,Brawley Union High,District Office,All,All,TA,AGY,176,151,85.8,137,14,25,12,20,103,2,12,2
+2020-21,D,36,73957,3673957,0,San Bernardino,Snowline Joint Unified,District Office,All,All,TA,AGY,176,137,77.8,112,25,39,15,23,61,13,23,2
+2020-21,D,1,61234,161234,0,Alameda,Newark Unified,District Office,All,All,TA,AGY,177,149,84.2,137,12,28,29,51,51,6,12,0
+2020-21,D,19,64378,1964378,0,Los Angeles,Charter Oak Unified,District Office,All,All,TA,AGY,177,160,90.4,142,18,17,20,47,56,19,16,2
+2020-21,D,37,68304,3768304,0,San Diego,Ramona City Unified,District Office,All,All,TA,AGY,179,138,77.1,103,35,41,12,20,67,4,34,1
+2020-21,D,30,66555,3066555,0,Orange,Laguna Beach Unified,District Office,All,All,TA,AGY,180,164,91.1,105,59,16,28,21,44,12,59,0
+2020-21,D,49,73882,4973882,0,Sonoma,Cotati-Rohnert Park Unified,District Office,All,All,TA,AGY,180,145,80.6,109,36,35,19,22,58,10,36,0
+2020-21,D,1,61127,161127,0,Alameda,Albany City Unified,District Office,All,All,TA,AGY,183,168,91.8,110,58,15,48,21,32,9,58,0
+2020-21,D,37,68031,3768031,0,San Diego,Coronado Unified,District Office,All,All,TA,AGY,183,159,86.9,89,70,24,35,17,17,20,70,0
+2020-21,D,31,66944,3166944,0,Placer,Tahoe-Truckee Unified,District Office,All,All,TA,AGY,195,163,83.6,113,50,32,31,31,40,11,43,7
+2020-21,D,37,68023,3768023,0,San Diego,Chula Vista Elementary,District Office,All,All,TA,AGY,195,158,81,149,9,37,19,54,70,6,9,0
+2020-21,D,48,70524,4870524,0,Solano,Benicia Unified,District Office,All,All,TA,AGY,196,174,88.8,137,37,22,28,37,64,8,35,2
+2020-21,D,29,66357,2966357,0,Nevada,Nevada Joint Union High,District Office,All,All,TA,AGY,197,154,78.2,119,35,43,27,31,57,4,35,0
+2020-21,D,34,67355,3467355,0,Sacramento,Galt Joint Union High,District Office,All,All,TA,AGY,202,179,88.6,156,23,23,18,45,83,10,22,1
+2020-21,D,19,64311,1964311,0,Los Angeles,Beverly Hills Unified,District Office,All,All,TA,AGY,206,171,83,113,58,35,27,9,67,10,57,1
+2020-21,D,48,70565,4870565,0,Solano,Travis Unified,District Office,All,All,TA,AGY,206,176,85.4,162,14,30,25,47,81,9,12,2
+2020-21,D,19,64964,1964964,0,Los Angeles,San Marino Unified,District Office,All,All,TA,AGY,207,191,92.3,123,68,16,42,15,34,32,68,0
+2020-21,D,19,64535,1964535,0,Los Angeles,El Segundo Unified,District Office,All,All,TA,AGY,208,193,92.8,128,65,15,26,25,63,14,64,1
+2020-21,D,49,70607,4970607,0,Sonoma,West Sonoma County Union High,District Office,All,All,TA,AGY,210,177,84.3,137,40,33,36,23,69,9,38,2
+2020-21,D,49,70920,4970920,0,Sonoma,Santa Rosa High,District Office,All,All,TA,AGY,211,197,93.4,137,60,14,54,46,30,7,58,2
+2020-21,D,37,76471,3776471,0,San Diego,SBC - High Tech High,District Office,All,All,TA,AGY,215,170,79.1,155,15,45,45,52,50,8,14,1
+2020-21,D,42,69229,4269229,0,Santa Barbara,Lompoc Unified,District Office,All,All,TA,AGY,219,184,84,166,18,35,22,31,106,7,17,1
+2020-21,D,1,61275,161275,0,Alameda,Piedmont City Unified,District Office,All,All,TA,AGY,221,196,88.7,95,101,25,43,15,17,20,100,1
+2020-21,D,39,76760,3976760,0,San Joaquin,Lammersville Joint Unified,District Office,All,All,TA,AGY,223,199,89.2,188,11,24,60,59,61,8,10,1
+2020-21,D,44,10447,4410447,0,Santa Cruz,Santa Cruz County Office of Education,District Office,All,All,TA,AGY,224,166,74.1,129,37,58,21,19,85,4,36,1
+2020-21,D,16,63982,1663982,0,Kings,Lemoore Union High,District Office,All,All,TA,AGY,225,181,80.4,159,22,44,20,36,101,2,20,2
+2020-21,D,19,64709,1964709,0,Los Angeles,Lennox,District Office,All,All,TA,AGY,227,200,88.1,193,7,27,53,72,57,11,6,1
+2020-21,D,13,63099,1363099,0,Imperial,Calexico Unified,District Office,All,All,TA,AGY,228,210,92.1,197,13,18,33,19,141,4,11,2
+2020-21,D,1,61291,161291,0,Alameda,San Leandro Unified,District Office,All,All,TA,AGY,235,204,86.8,196,8,31,57,59,73,7,8,0
+2020-21,D,30,66449,3066449,0,Orange,Brea-Olinda Unified,District Office,All,All,TA,AGY,238,222,93.3,188,34,16,45,48,68,27,33,1
+2020-21,D,19,64790,1964790,0,Los Angeles,Monrovia Unified,District Office,All,All,TA,AGY,239,203,84.9,184,19,36,21,48,102,13,19,0
+2020-21,D,19,65029,1965029,0,Los Angeles,South Pasadena Unified,District Office,All,All,TA,AGY,246,212,86.2,160,52,34,54,34,45,27,51,1
+2020-21,D,57,72694,5772694,0,Yolo,Washington Unified,District Office,All,All,TA,AGY,247,197,79.8,184,13,50,35,41,103,5,12,1
+2020-21,D,19,64303,1964303,0,Los Angeles,Bellflower Unified,District Office,All,All,TA,AGY,250,194,77.6,175,19,56,25,93,52,5,19,0
+2020-21,D,13,63115,1363115,0,Imperial,Central Union High,District Office,All,All,TA,AGY,251,221,88,204,17,30,32,23,147,2,16,1
+2020-21,D,19,64808,1964808,0,Los Angeles,Montebello Unified,District Office,All,All,TA,AGY,252,214,84.9,204,10,38,50,90,44,20,10,0
+2020-21,D,7,61648,761648,0,Contra Costa,Antioch Unified,District Office,All,All,TA,AGY,256,218,85.2,205,13,38,42,50,96,17,13,0
+2020-21,D,56,73940,5673940,0,Ventura,Moorpark Unified,District Office,All,All,TA,AGY,258,243,94.2,195,48,15,30,34,113,18,47,1
+2020-21,D,19,64659,1964659,0,Los Angeles,La Canada Unified,District Office,All,All,TA,AGY,262,240,91.6,158,82,22,46,21,48,43,82,0
+2020-21,D,19,64469,1964469,0,Los Angeles,Duarte Unified,District Office,All,All,TA,AGY,277,223,80.5,193,30,54,31,38,98,26,29,1
+2020-21,D,10,62265,1062265,0,Fresno,Kings Canyon Joint Unified,District Office,All,All,TA,AGY,282,228,80.9,221,7,54,28,76,112,5,7,0
+2020-21,D,57,72710,5772710,0,Yolo,Woodland Joint Unified,District Office,All,All,TA,AGY,288,229,79.5,213,16,59,27,65,117,4,16,0
+2020-21,D,39,68569,3968569,0,San Joaquin,Lincoln Unified,District Office,All,All,TA,AGY,289,251,86.9,221,30,38,42,50,105,24,28,2
+2020-21,D,19,65052,1965052,0,Los Angeles,Temple City Unified,District Office,All,All,TA,AGY,294,278,94.6,267,11,16,92,67,83,25,11,0
+2020-21,D,56,73874,5673874,0,Ventura,Oak Park Unified,District Office,All,All,TA,AGY,296,273,92.2,202,71,23,60,36,82,24,69,2
+2020-21,D,16,63925,1663925,0,Kings,Hanford Joint Union High,District Office,All,All,TA,AGY,297,257,86.5,238,19,40,24,47,163,4,16,3
+2020-21,D,36,67959,3667959,0,San Bernardino,Yucaipa-Calimesa Joint Unified,District Office,All,All,TA,AGY,301,236,78.4,206,30,65,28,24,112,42,27,3
+2020-21,D,41,69070,4169070,0,San Mateo,South San Francisco Unified,District Office,All,All,TA,AGY,302,270,89.4,256,14,32,49,75,113,19,14,0
+2020-21,D,48,70581,4870581,0,Solano,Vallejo City Unified,District Office,All,All,TA,AGY,308,224,72.7,210,14,84,24,45,138,3,14,0
+2020-21,D,35,67538,3567538,0,San Benito,San Benito High,District Office,All,All,TA,AGY,313,272,86.9,239,33,41,32,77,121,9,33,0
+2020-21,D,51,71464,5171464,0,Sutter,Yuba City Unified,District Office,All,All,TA,AGY,315,252,80,225,27,63,36,30,150,9,25,2
+2020-21,D,7,61788,761788,0,Contra Costa,Pittsburg Unified,District Office,All,All,TA,AGY,316,247,78.2,230,17,69,30,56,137,7,15,2
+2020-21,D,19,64527,1964527,0,Los Angeles,El Rancho Unified,District Office,All,All,TA,AGY,317,240,75.7,232,8,77,39,79,97,17,7,1
+2020-21,D,19,64634,1964634,0,Los Angeles,Inglewood Unified,District Office,All,All,TA,AGY,322,240,74.5,225,15,82,43,98,72,12,15,0
+2020-21,D,54,75531,5475531,0,Tulare,Dinuba Unified,District Office,All,All,TA,AGY,329,209,63.5,207,2,120,12,31,163,1,2,0
+2020-21,D,19,75291,1975291,0,Los Angeles,San Gabriel Unified,District Office,All,All,TA,AGY,331,287,86.7,265,22,44,73,95,83,14,18,4
+2020-21,D,31,66951,3166951,0,Placer,Western Placer Unified,District Office,All,All,TA,AGY,333,263,79,206,57,70,11,33,157,5,54,3
+2020-21,D,43,69583,4369583,0,Santa Clara,Morgan Hill Unified,District Office,All,All,TA,AGY,340,307,90.3,264,43,33,44,95,111,14,43,0
+2020-21,D,24,65755,2465755,0,Merced,Los Banos Unified,District Office,All,All,TA,AGY,341,255,74.8,238,17,86,38,52,138,10,16,1
+2020-21,D,40,68809,4068809,0,San Luis Obispo,San Luis Coastal Unified,District Office,All,All,TA,AGY,344,316,91.9,252,64,28,38,88,108,18,63,1
+2020-21,D,49,70862,4970862,0,Sonoma,Petaluma Joint Union High,District Office,All,All,TA,AGY,344,299,86.9,228,71,45,45,59,109,15,69,2
+2020-21,D,33,67249,3367249,0,Riverside,San Jacinto Unified,District Office,All,All,TA,AGY,353,226,64,214,12,127,51,37,116,10,12,0
+2020-21,D,40,68759,4068759,0,San Luis Obispo,Lucia Mar Unified,District Office,All,All,TA,AGY,354,306,86.4,270,36,48,36,78,151,5,34,2
+2020-21,D,10,73965,1073965,0,Fresno,Central Unified,District Office,All,All,TA,AGY,355,305,85.9,290,15,50,24,118,141,7,14,1
+2020-21,D,43,10439,4310439,0,Santa Clara,Santa Clara County Office of Education,District Office,All,All,TA,AGY,360,306,85,283,23,54,67,96,99,21,19,4
+2020-21,D,19,64576,1964576,0,Los Angeles,Glendora Unified,District Office,All,All,TA,AGY,367,335,91.3,266,69,32,39,59,114,54,68,1
+2020-21,D,33,66993,3366993,0,Riverside,Beaumont Unified,District Office,All,All,TA,AGY,368,268,72.8,232,36,100,38,40,121,33,33,3
+2020-21,D,19,76869,1976869,0,Los Angeles,Wiseburn Unified,District Office,All,All,TA,AGY,370,290,78.4,257,33,80,49,87,103,18,33,0
+2020-21,D,19,64394,1964394,0,Los Angeles,Claremont Unified,District Office,All,All,TA,AGY,378,349,92.3,285,64,29,54,74,113,44,63,1
+2020-21,D,36,75069,3675069,0,San Bernardino,Upland Unified,District Office,All,All,TA,AGY,378,304,80.4,265,39,74,48,68,115,34,38,1
+2020-21,D,21,65466,2165466,0,Marin,San Rafael City High,District Office,All,All,TA,AGY,387,350,90.4,286,64,37,80,91,89,26,64,0
+2020-21,D,33,73676,3373676,0,Riverside,Coachella Valley Unified,District Office,All,All,TA,AGY,387,287,74.2,280,7,100,82,72,122,4,6,1
+2020-21,D,4,61424,461424,0,Butte,Chico Unified,District Office,All,All,TA,AGY,389,346,88.9,294,52,43,30,59,198,7,49,3
+2020-21,D,36,67686,3667686,0,San Bernardino,Colton Joint Unified,District Office,All,All,TA,AGY,392,302,77,286,16,90,81,86,78,41,16,0
+2020-21,D,19,64774,1964774,0,Los Angeles,Lynwood Unified,District Office,All,All,TA,AGY,397,284,71.5,277,7,113,68,121,75,13,4,3
+2020-21,D,34,76505,3476505,0,Sacramento,Twin Rivers Unified,District Office,All,All,TA,AGY,398,297,74.6,284,13,101,49,113,114,8,11,2
+2020-21,D,19,64873,1964873,0,Los Angeles,Paramount Unified,District Office,All,All,TA,AGY,403,282,70,270,12,121,54,139,71,6,12,0
+2020-21,D,1,61242,161242,0,Alameda,New Haven Unified,District Office,All,All,TA,AGY,407,369,90.7,351,18,38,88,105,141,17,17,1
+2020-21,D,19,64444,1964444,0,Los Angeles,Culver City Unified,District Office,All,All,TA,AGY,417,345,82.7,258,87,72,63,59,111,25,83,4
+2020-21,D,54,72256,5472256,0,Tulare,Visalia Unified,District Office,All,All,TA,AGY,417,360,86.3,312,48,57,37,78,179,18,46,2
+2020-21,D,19,65094,1965094,0,Los Angeles,West Covina Unified,District Office,All,All,TA,AGY,424,353,83.3,338,15,71,52,104,140,42,14,1
+2020-21,D,36,75077,3675077,0,San Bernardino,Apple Valley Unified,District Office,All,All,TA,AGY,428,348,81.3,296,52,80,42,62,162,30,49,3
+2020-21,D,21,65417,2165417,0,Marin,Novato Unified,District Office,All,All,TA,AGY,433,379,87.5,261,118,54,66,73,97,25,116,2
+2020-21,D,43,69484,4369484,0,Santa Clara,Gilroy Unified,District Office,All,All,TA,AGY,434,392,90.3,344,48,42,59,109,150,26,46,2
+2020-21,D,50,71043,5071043,0,Stanislaus,Ceres Unified,District Office,All,All,TA,AGY,440,368,83.6,359,9,72,47,167,137,8,9,0
+2020-21,D,44,69823,4469823,0,Santa Cruz,Santa Cruz City High,District Office,All,All,TA,AGY,442,391,88.5,305,86,51,58,70,163,14,86,0
+2020-21,D,10,62414,1062414,0,Fresno,Sanger Unified,District Office,All,All,TA,AGY,445,366,82.2,346,20,79,44,149,148,5,20,0
+2020-21,D,19,75341,1975341,0,Los Angeles,Redondo Beach Unified,District Office,All,All,TA,AGY,447,416,93.1,308,108,31,64,63,160,21,108,0
+2020-21,D,19,73452,1973452,0,Los Angeles,Rowland Unified,District Office,All,All,TA,AGY,449,398,88.6,379,19,51,74,129,144,32,17,2
+2020-21,D,33,67090,3367090,0,Riverside,Jurupa Unified,District Office,All,All,TA,AGY,459,319,69.5,303,16,140,88,94,100,21,10,6
+2020-21,D,27,66092,2766092,0,Monterey,Monterey Peninsula Unified,District Office,All,All,TA,AGY,460,337,73.3,313,24,123,37,66,204,6,22,2
+2020-21,D,48,70540,4870540,0,Solano,Fairfield-Suisun Unified,District Office,All,All,TA,AGY,477,387,81.1,360,27,90,79,60,207,14,26,1
+2020-21,D,43,73387,4373387,0,Santa Clara,Milpitas Unified,District Office,All,All,TA,AGY,478,452,94.6,433,19,26,117,130,154,32,19,0
+2020-21,D,1,61143,161143,0,Alameda,Berkeley Unified,District Office,All,All,TA,AGY,488,420,86.1,273,147,68,134,57,59,23,145,2
+2020-21,D,45,70136,4570136,0,Shasta,Shasta Union High,District Office,All,All,TA,AGY,491,415,84.5,337,78,76,48,43,222,24,75,3
+2020-21,D,1,61150,161150,0,Alameda,Castro Valley Unified,District Office,All,All,TA,AGY,493,436,88.4,391,45,57,131,107,134,19,45,0
+2020-21,D,44,69799,4469799,0,Santa Cruz,Pajaro Valley Unified,District Office,All,All,TA,AGY,495,426,86.1,405,21,69,50,109,231,15,20,1
+2020-21,D,1,61309,161309,0,Alameda,San Lorenzo Unified,District Office,All,All,TA,AGY,498,397,79.7,382,15,101,81,149,136,16,13,2
+2020-21,D,33,66977,3366977,0,Riverside,Alvord Unified,District Office,All,All,TA,AGY,507,360,71,342,18,147,114,64,123,41,16,2
+2020-21,D,50,75739,5075739,0,Stanislaus,Turlock Unified,District Office,All,All,TA,AGY,509,452,88.8,418,34,57,74,166,166,12,33,1
+2020-21,D,54,72249,5472249,0,Tulare,Tulare Joint Union High,District Office,All,All,TA,AGY,509,426,83.7,400,26,83,36,116,235,13,24,2
+2020-21,D,48,70573,4870573,0,Solano,Vacaville Unified,District Office,All,All,TA,AGY,511,390,76.3,342,48,121,42,94,197,9,46,2
+2020-21,D,31,66894,3166894,0,Placer,Placer Union High,District Office,All,All,TA,AGY,516,444,86,332,112,72,32,62,208,30,108,4
+2020-21,D,41,68924,4168924,0,San Mateo,Jefferson Union High,District Office,All,All,TA,AGY,516,450,87.2,417,33,66,64,143,188,22,32,1
+2020-21,D,20,65243,2065243,0,Madera,Madera Unified,District Office,All,All,TA,AGY,517,374,72.3,361,13,143,54,109,189,9,12,1
+2020-21,D,19,64329,1964329,0,Los Angeles,Bonita Unified,District Office,All,All,TA,AGY,521,474,91,408,66,47,72,115,170,51,66,0
+2020-21,D,39,68585,3968585,0,San Joaquin,Lodi Unified,District Office,All,All,TA,AGY,528,466,88.3,420,46,62,70,101,204,45,44,2
+2020-21,D,37,73569,3773569,0,San Diego,Oceanside Unified,District Office,All,All,TA,AGY,533,291,54.6,229,62,242,55,103,56,15,56,6
+2020-21,D,19,75333,1975333,0,Los Angeles,Manhattan Beach Unified,District Office,All,All,TA,AGY,538,500,92.9,283,217,38,110,47,76,50,215,2
+2020-21,D,54,75523,5475523,0,Tulare,Porterville Unified,District Office,All,All,TA,AGY,544,409,75.2,378,31,135,45,99,215,19,29,2
+2020-21,D,30,10306,3010306,0,Orange,Orange County Department of Education,District Office,All,All,TA,AGY,545,466,85.5,350,116,79,78,87,110,75,116,0
+2020-21,D,19,73437,1973437,0,Los Angeles,Compton Unified,District Office,All,All,TA,AGY,547,374,68.4,354,20,173,72,197,78,7,18,2
+2020-21,D,1,61200,161200,0,Alameda,Livermore Valley Joint Unified,District Office,All,All,TA,AGY,548,483,88.1,348,135,65,77,83,162,26,129,6
+2020-21,D,56,72652,5672652,0,Ventura,Ventura Unified,District Office,All,All,TA,AGY,548,508,92.7,424,84,40,68,71,255,30,83,1
+2020-21,D,57,72678,5772678,0,Yolo,Davis Joint Unified,District Office,All,All,TA,AGY,548,483,88.1,368,115,65,148,80,117,23,114,1
+2020-21,D,15,63412,1563412,0,Kern,Delano Joint Union High,District Office,All,All,TA,AGY,550,318,57.8,306,12,232,35,143,120,8,10,2
+2020-21,D,39,75499,3975499,0,San Joaquin,Tracy Joint Unified,District Office,All,All,TA,AGY,550,484,88,436,48,66,98,102,203,33,44,4
+2020-21,D,30,73924,3073924,0,Orange,Los Alamitos Unified,District Office,All,All,TA,AGY,553,504,91.1,371,133,49,74,123,129,45,131,2
+2020-21,D,19,64881,1964881,0,Los Angeles,Pasadena Unified,District Office,All,All,TA,AGY,555,477,85.9,430,47,78,87,117,195,31,46,1
+2020-21,D,39,68593,3968593,0,San Joaquin,Manteca Unified,District Office,All,All,TA,AGY,557,478,85.8,443,35,79,76,111,220,36,33,2
+2020-21,D,1,61119,161119,0,Alameda,Alameda Unified,District Office,All,All,TA,AGY,558,473,84.8,400,73,85,143,104,123,30,71,2
+2020-21,D,7,10074,710074,0,Contra Costa,Contra Costa County Office of Education,District Office,All,All,TA,AGY,562,481,85.6,406,75,81,98,108,176,24,74,1
+2020-21,D,19,73445,1973445,0,Los Angeles,Hacienda la Puente Unified,District Office,All,All,TA,AGY,563,494,87.7,466,28,69,92,148,191,35,26,2
+2020-21,D,1,75093,175093,0,Alameda,Dublin Unified,District Office,All,All,TA,AGY,565,506,89.6,396,110,59,137,107,111,41,109,1
+2020-21,D,43,69674,4369674,0,Santa Clara,Santa Clara Unified,District Office,All,All,TA,AGY,570,518,90.9,455,63,52,120,155,144,36,61,2
+2020-21,D,33,75176,3375176,0,Riverside,Lake Elsinore Unified,District Office,All,All,TA,AGY,571,441,77.2,397,44,130,86,102,171,38,39,5
+2020-21,D,19,64840,1964840,0,Los Angeles,Norwalk-La Mirada Unified,District Office,All,All,TA,AGY,592,389,65.7,366,23,203,62,158,119,27,19,4
+2020-21,D,19,64337,1964337,0,Los Angeles,Burbank Unified,District Office,All,All,TA,AGY,608,511,84,439,72,97,77,112,210,40,67,5
+2020-21,D,19,10199,1910199,0,Los Angeles,Los Angeles County Office of Education,District Office,All,All,TA,AGY,612,426,69.6,353,72,186,65,163,90,35,66,6
+2020-21,D,19,64683,1964683,0,Los Angeles,Las Virgenes Unified,District Office,All,All,TA,AGY,616,548,89,342,206,68,101,72,118,51,203,3
+2020-21,D,36,67934,3667934,0,San Bernardino,Victor Valley Union High,District Office,All,All,TA,AGY,628,495,78.8,459,36,133,98,112,222,27,34,2
+2020-21,D,56,72603,5672603,0,Ventura,Simi Valley Unified,District Office,All,All,TA,AGY,632,569,90,469,100,63,82,83,258,46,96,4
+2020-21,D,19,64907,1964907,0,Los Angeles,Pomona Unified,District Office,All,All,TA,AGY,634,516,81.4,489,27,118,80,191,174,44,27,0
+2020-21,D,42,69310,4269310,0,Santa Barbara,Santa Maria Joint Union High,District Office,All,All,TA,AGY,638,546,85.6,523,23,92,59,114,340,10,23,0
+2020-21,D,19,64352,1964352,0,Los Angeles,Centinela Valley Union High,District Office,All,All,TA,AGY,643,487,75.7,460,27,156,100,171,176,13,25,2
+2020-21,D,19,64287,1964287,0,Los Angeles,Baldwin Park Unified,District Office,All,All,TA,AGY,658,437,66.4,415,22,221,56,138,189,32,19,3
+2020-21,D,19,64980,1964980,0,Los Angeles,Santa Monica-Malibu Unified,District Office,All,All,TA,AGY,665,581,87.4,418,163,84,145,91,140,42,160,3
+2020-21,D,19,64436,1964436,0,Los Angeles,Covina-Valley Unified,District Office,All,All,TA,AGY,666,554,83.2,520,34,112,70,180,208,62,33,1
+2020-21,D,36,75044,3675044,0,San Bernardino,Hesperia Unified,District Office,All,All,TA,AGY,666,521,78.2,467,54,145,56,127,245,39,53,1
+2020-21,D,28,66266,2866266,0,Napa,Napa Valley Unified,District Office,All,All,TA,AGY,687,618,90,545,73,69,74,117,321,33,69,4
+2020-21,D,37,73551,3773551,0,San Diego,Carlsbad Unified,District Office,All,All,TA,AGY,699,509,72.8,338,171,190,109,116,76,37,167,4
+2020-21,D,37,68452,3768452,0,San Diego,Vista Unified,District Office,All,All,TA,AGY,711,526,74,440,86,185,86,149,184,21,83,3
+2020-21,D,43,69534,4369534,0,Santa Clara,Los Gatos-Saratoga Union High,District Office,All,All,TA,AGY,721,665,92.2,354,311,56,116,89,87,62,311,0
+2020-21,D,36,67843,3667843,0,San Bernardino,Redlands Unified,District Office,All,All,TA,AGY,723,610,84.4,518,92,113,117,132,200,69,91,1
+2020-21,D,34,75283,3475283,0,Sacramento,Natomas Unified,District Office,All,All,TA,AGY,733,609,83.1,558,51,124,106,200,237,15,49,2
+2020-21,D,1,61192,161192,0,Alameda,Hayward Unified,District Office,All,All,TA,AGY,736,584,79.3,564,20,152,114,249,180,21,18,2
+2020-21,D,19,64865,1964865,0,Los Angeles,Palos Verdes Peninsula Unified,District Office,All,All,TA,AGY,746,691,92.6,447,244,55,144,70,135,98,243,1
+2020-21,D,33,67173,3367173,0,Riverside,Palm Springs Unified,District Office,All,All,TA,AGY,751,547,72.8,500,47,204,82,135,248,35,46,1
+2020-21,D,19,64261,1964261,0,Los Angeles,Arcadia Unified,District Office,All,All,TA,AGY,752,674,89.6,580,93,78,184,86,247,63,92,1
+2020-21,D,7,61754,761754,0,Contra Costa,Mt. Diablo Unified,District Office,All,All,TA,AGY,760,669,88,551,118,91,142,137,236,36,115,3
+2020-21,D,33,67082,3367082,0,Riverside,Hemet Unified,District Office,All,All,TA,AGY,766,506,66.1,444,62,260,95,73,248,28,57,5
+2020-21,D,36,67850,3667850,0,San Bernardino,Rialto Unified,District Office,All,All,TA,AGY,767,543,70.8,516,27,224,123,159,189,45,21,6
+2020-21,D,33,67207,3367207,0,Riverside,Perris Union High,District Office,All,All,TA,AGY,771,584,75.7,543,41,187,135,151,225,32,37,4
+2020-21,D,39,68676,3968676,0,San Joaquin,Stockton Unified,District Office,All,All,TA,AGY,800,630,78.8,599,31,170,90,132,286,91,28,3
+2020-21,D,19,73460,1973460,0,Los Angeles,Walnut Valley Unified,District Office,All,All,TA,AGY,806,762,94.5,685,77,44,258,178,182,67,75,2
+2020-21,D,9,61853,961853,0,El Dorado,El Dorado Union High,District Office,All,All,TA,AGY,822,749,91.1,514,235,73,92,133,257,32,230,5
+2020-21,D,31,75085,3175085,0,Placer,Rocklin Unified,District Office,All,All,TA,AGY,828,731,88.3,585,146,97,82,104,360,39,142,4
+2020-21,D,34,67330,3467330,0,Sacramento,Folsom-Cordova Unified,District Office,All,All,TA,AGY,842,768,91.2,591,177,74,125,138,304,24,172,5
+2020-21,D,33,75242,3375242,0,Riverside,Val Verde Unified,District Office,All,All,TA,AGY,849,573,67.5,520,53,276,146,102,207,65,48,5
+2020-21,D,43,69609,4369609,0,Santa Clara,Mountain View-Los Altos Union High,District Office,All,All,TA,AGY,850,751,88.4,468,283,99,155,105,132,76,281,2
+2020-21,D,24,65789,2465789,0,Merced,Merced Union High,District Office,All,All,TA,AGY,851,709,83.3,680,29,142,193,153,319,15,26,3
+2020-21,D,33,67124,3367124,0,Riverside,Moreno Valley Unified,District Office,All,All,TA,AGY,860,633,73.6,571,62,227,157,145,202,67,55,7
+2020-21,D,42,76786,4276786,0,Santa Barbara,Santa Barbara Unified,District Office,All,All,TA,AGY,872,798,91.5,658,140,74,165,59,359,75,139,1
+2020-21,D,43,69641,4369641,0,Santa Clara,Palo Alto Unified,District Office,All,All,TA,AGY,904,800,88.5,411,389,104,156,55,102,98,385,4
+2020-21,D,19,64212,1964212,0,Los Angeles,ABC Unified,District Office,All,All,TA,AGY,936,724,77.4,662,62,212,192,264,170,36,61,1
+2020-21,D,21,65482,2165482,0,Marin,Tamalpais Union High,District Office,All,All,TA,AGY,968,850,87.8,439,411,118,130,120,133,56,410,1
+2020-21,D,19,64451,1964451,0,Los Angeles,Downey Unified,District Office,All,All,TA,AGY,978,744,76.1,686,58,234,172,318,157,39,55,3
+2020-21,D,19,64519,1964519,0,Los Angeles,El Monte Union High,District Office,All,All,TA,AGY,983,861,87.6,844,17,122,178,293,343,30,17,0
+2020-21,D,7,61721,761721,0,Contra Costa,Liberty Union High,District Office,All,All,TA,AGY,989,842,85.1,669,173,147,127,135,370,37,164,9
+2020-21,D,19,64568,1964568,0,Los Angeles,Glendale Unified,District Office,All,All,TA,AGY,993,906,91.2,822,84,87,147,133,474,68,80,4
+2020-21,D,1,75101,175101,0,Alameda,Pleasanton Unified,District Office,All,All,TA,AGY,997,895,89.8,612,283,102,238,150,147,77,280,3
+2020-21,D,56,73759,5673759,0,Ventura,Conejo Valley Unified,District Office,All,All,TA,AGY,1015,928,91.4,655,273,87,140,107,322,86,269,4
+2020-21,D,37,68106,3768106,0,San Diego,Escondido Union High,District Office,All,All,TA,AGY,1017,841,82.7,735,106,176,150,242,298,45,102,4
+2020-21,D,37,73791,3773791,0,San Diego,San Marcos Unified,District Office,All,All,TA,AGY,1020,900,88.2,728,172,120,156,231,315,26,170,2
+2020-21,D,30,66597,3066597,0,Orange,Newport-Mesa Unified,District Office,All,All,TA,AGY,1054,936,88.8,630,306,118,143,121,299,67,303,3
+2020-21,D,27,66159,2766159,0,Monterey,Salinas Union High,District Office,All,All,TA,AGY,1055,921,87.3,881,40,134,114,246,507,14,38,2
+2020-21,D,30,66621,3066621,0,Orange,Orange Unified,District Office,All,All,TA,AGY,1058,949,89.7,815,134,109,166,195,400,54,133,1
+2020-21,D,30,66647,3066647,0,Orange,Placentia-Yorba Linda Unified,District Office,All,All,TA,AGY,1079,993,92,801,192,86,199,228,300,74,185,7
+2020-21,D,7,61796,761796,0,Contra Costa,West Contra Costa Unified,District Office,All,All,TA,AGY,1089,875,80.3,811,64,214,250,222,303,36,57,7
+2020-21,D,19,75713,1975713,0,Los Angeles,Alhambra Unified,District Office,All,All,TA,AGY,1109,958,86.4,922,36,151,262,316,312,32,35,1
+2020-21,D,7,61630,761630,0,Contra Costa,Acalanes Union High,District Office,All,All,TA,AGY,1110,1028,92.6,584,444,82,199,151,156,78,440,4
+2020-21,D,33,67058,3367058,0,Riverside,Desert Sands Unified,District Office,All,All,TA,AGY,1121,919,82,823,96,202,125,194,465,39,90,6
+2020-21,D,19,65060,1965060,0,Los Angeles,Torrance Unified,District Office,All,All,TA,AGY,1183,1073,90.7,914,159,110,194,204,444,72,155,4
+2020-21,D,30,73635,3073635,0,Orange,Saddleback Valley Unified,District Office,All,All,TA,AGY,1190,1100,92.4,822,278,90,135,148,456,83,275,3
+2020-21,D,36,67876,3667876,0,San Bernardino,San Bernardino City Unified,District Office,All,All,TA,AGY,1204,831,69,773,58,373,160,254,281,78,55,3
+2020-21,D,43,69401,4369401,0,Santa Clara,Campbell Union High,District Office,All,All,TA,AGY,1228,1096,89.3,854,242,132,143,221,436,54,235,7
+2020-21,D,33,75200,3375200,0,Riverside,Murrieta Valley Unified,District Office,All,All,TA,AGY,1251,1022,81.7,790,232,229,156,215,351,68,219,13
+2020-21,D,30,73643,3073643,0,Orange,Tustin Unified,District Office,All,All,TA,AGY,1284,1139,88.7,911,228,145,227,198,399,87,224,4
+2020-21,D,36,67678,3667678,0,San Bernardino,Chino Valley Unified,District Office,All,All,TA,AGY,1299,1096,84.4,967,129,203,244,276,328,119,125,4
+2020-21,D,50,71175,5071175,0,Stanislaus,Modesto City High,District Office,All,All,TA,AGY,1303,1118,85.8,1030,88,185,164,347,481,38,84,4
+2020-21,D,36,67710,3667710,0,San Bernardino,Fontana Unified,District Office,All,All,TA,AGY,1348,958,71.1,920,38,390,181,354,318,67,31,7
+2020-21,D,34,67439,3467439,0,Sacramento,Sacramento City Unified,District Office,All,All,TA,AGY,1360,1133,83.3,1048,85,227,226,364,419,39,81,4
+2020-21,D,34,67447,3467447,0,Sacramento,San Juan Unified,District Office,All,All,TA,AGY,1393,1175,84.4,976,199,218,157,291,482,46,195,4
+2020-21,D,43,69666,4369666,0,Santa Clara,San Jose Unified,District Office,All,All,TA,AGY,1395,1239,88.8,997,242,156,214,318,398,67,238,4
+2020-21,D,56,72546,5672546,0,Ventura,Oxnard Union High,District Office,All,All,TA,AGY,1412,1273,90.2,1173,100,139,140,231,745,57,97,3
+2020-21,D,30,66670,3066670,0,Orange,Santa Ana Unified,District Office,All,All,TA,AGY,1416,1191,84.1,1141,50,225,172,290,590,89,46,4
+2020-21,D,1,61176,161176,0,Alameda,Fremont Unified,District Office,All,All,TA,AGY,1486,1348,90.7,1017,331,138,382,261,284,90,322,9
+2020-21,D,19,65128,1965128,0,Los Angeles,Whittier Union High,District Office,All,All,TA,AGY,1496,1207,80.7,1110,97,289,150,358,520,82,94,3
+2020-21,D,31,66928,3166928,0,Placer,Roseville Joint Union High,District Office,All,All,TA,AGY,1518,1351,89,1075,276,167,148,237,631,59,271,5
+2020-21,D,33,67215,3367215,0,Riverside,Riverside Unified,District Office,All,All,TA,AGY,1553,1135,73.1,996,139,418,285,208,351,152,129,10
+2020-21,D,41,69062,4169062,0,San Mateo,Sequoia Union High,District Office,All,All,TA,AGY,1563,1381,88.4,955,425,182,265,278,307,105,422,3
+2020-21,D,19,64246,1964246,0,Los Angeles,Antelope Valley Union High,District Office,All,All,TA,AGY,1594,1286,80.7,1167,119,308,219,294,603,51,110,9
+2020-21,D,41,69047,4169047,0,San Mateo,San Mateo Union High,District Office,All,All,TA,AGY,1650,1501,91,1153,348,149,300,283,444,126,347,1
+2020-21,D,33,75192,3375192,0,Riverside,Temecula Valley Unified,District Office,All,All,TA,AGY,1673,1335,79.8,1071,264,338,251,267,481,72,244,20
+2020-21,D,30,66514,3066514,0,Orange,Fullerton Joint Union High,District Office,All,All,TA,AGY,1712,1445,84.4,1265,179,267,233,309,603,120,173,6
+2020-21,D,37,68346,3768346,0,San Diego,San Dieguito Union High,District Office,All,All,TA,AGY,1752,1516,86.5,889,627,236,373,203,168,145,621,6
+2020-21,D,30,73650,3073650,0,Orange,Irvine Unified,District Office,All,All,TA,AGY,1761,1622,92.1,1295,326,139,540,156,491,108,322,4
+2020-21,D,10,62117,1062117,0,Fresno,Clovis Unified,District Office,All,All,TA,AGY,1810,1582,87.4,1381,201,228,131,471,681,98,196,5
+2020-21,D,19,65136,1965136,0,Los Angeles,William S. Hart Union High,District Office,All,All,TA,AGY,1890,1661,87.9,1320,341,229,208,207,794,111,331,10
+2020-21,D,1,61259,161259,0,Alameda,Oakland Unified,District Office,All,All,TA,AGY,1900,1352,71.2,1186,166,548,373,408,345,60,162,4
+2020-21,D,30,66522,3066522,0,Orange,Garden Grove Unified,District Office,All,All,TA,AGY,1903,1704,89.5,1657,47,199,275,542,808,32,42,5
+2020-21,D,7,61804,761804,0,Contra Costa,San Ramon Valley Unified,District Office,All,All,TA,AGY,1936,1800,93,1155,644,136,420,265,307,163,633,11
+2020-21,D,30,66548,3066548,0,Orange,Huntington Beach Union High,District Office,All,All,TA,AGY,1936,1791,92.5,1541,250,145,264,475,726,76,243,7
+2020-21,D,37,68296,3768296,0,San Diego,Poway Unified,District Office,All,All,TA,AGY,2091,1897,90.7,1390,507,194,447,366,467,110,504,3
+2020-21,D,33,67033,3367033,0,Riverside,Corona-Norco Unified,District Office,All,All,TA,AGY,2198,1729,78.7,1488,241,469,420,374,520,174,231,10
+2020-21,D,43,69468,4369468,0,Santa Clara,Fremont Union High,District Office,All,All,TA,AGY,2252,2053,91.2,1316,737,199,562,288,318,148,734,3
+2020-21,D,30,66431,3066431,0,Orange,Anaheim Union High,District Office,All,All,TA,AGY,2366,2053,86.8,1947,106,313,329,526,1005,87,100,6
+2020-21,D,37,68130,3768130,0,San Diego,Grossmont Union High,District Office,All,All,TA,AGY,2415,1987,82.3,1730,257,428,252,390,1003,85,240,17
+2020-21,D,10,62166,1062166,0,Fresno,Fresno Unified,District Office,All,All,TA,AGY,2433,1869,76.8,1793,76,564,145,916,679,53,70,6
+2020-21,D,34,67314,3467314,0,Sacramento,Elk Grove Unified,District Office,All,All,TA,AGY,2527,2253,89.2,2057,196,274,397,622,949,89,190,6
+2020-21,D,30,66464,3066464,0,Orange,Capistrano Unified,District Office,All,All,TA,AGY,2650,2402,90.6,1587,815,248,356,322,760,149,806,9
+2020-21,D,19,64725,1964725,0,Los Angeles,Long Beach Unified,District Office,All,All,TA,AGY,2832,2507,88.5,2258,249,325,337,868,956,97,240,9
+2020-21,D,38,68478,3868478,0,San Francisco,San Francisco Unified,District Office,All,All,TA,AGY,2895,2419,83.6,2139,280,476,804,718,477,140,275,5
+2020-21,D,43,69427,4369427,0,Santa Clara,East Side Union High,District Office,All,All,TA,AGY,2929,2649,90.4,2469,180,280,526,782,1036,125,171,9
+2020-21,D,37,68411,3768411,0,San Diego,Sweetwater Union High,District Office,All,All,TA,AGY,3149,2680,85.1,2503,177,469,487,819,1107,90,167,10
+2020-21,D,15,63529,1563529,0,Kern,Kern High,District Office,All,All,TA,AGY,3442,2523,73.3,2277,246,919,265,1005,916,91,224,22
+2020-21,D,36,67652,3667652,0,San Bernardino,Chaffey Joint Union High,District Office,All,All,TA,AGY,3625,2828,78,2592,236,797,460,743,1123,266,219,17
+2020-21,D,37,68338,3768338,0,San Diego,San Diego Unified,District Office,All,All,TA,AGY,5644,4536,80.4,3917,619,1108,955,968,1807,187,599,20
+2020-21,D,19,64733,1964733,0,Los Angeles,Los Angeles Unified,District Office,All,All,TA,AGY,23979,16803,70.1,15421,1382,7176,3172,7056,4332,861,1300,82

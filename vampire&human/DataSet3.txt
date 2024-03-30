@@ -1,0 +1,22 @@
+Elena, Stefan, Damon, Bonnie, Matt, Jeremy, Caroline, Alaric
+7
+Elena : H, Damon : H, Bonnie : H, Matt : H, Jeremy : H, Caroline : H, Alaric : H
+1
+Stefan, Damon
+##
+1
+Damon, Bonnie
+##
+1
+Bonnie, Jeremy
+##
+1
+Jeremy, Elena
+##
+1
+Caroline, Elena
+##
+1
+Alaric, Caroline
+Alaric : V, Matt : H
+0

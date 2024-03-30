@@ -1,0 +1,13 @@
+Magiere, Leesil, Wynn, Chane
+3
+Magiere : H, Leesil : H, Wynn : H
+2
+Magiere, Leesil
+Wynn, Chane
+Wynn : H, Chane : V
+2
+Magiere, Wynn
+Leesil, Chane
+Magiere : V
+1
+Magiere, Wynn, Leesil, Chane

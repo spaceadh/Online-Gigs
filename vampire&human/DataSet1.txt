@@ -1,0 +1,17 @@
+Bella, Edward, Jacob, Carlisle, Alice, Emmett, Charlie, Renee, Jessica, Angela
+4
+Edward : V, Bella : H, Jacob : H, Jessica : H
+3
+Bella, Edward
+Charlie, Jacob
+Alice, Renee
+Bella : H, Jacob:H, Alice :V, Charlie: H
+2
+Bella, Edward, Charlie
+Angela, Jessica
+Emmett : V, Renee : H, Jessica : V
+0
+Bella : V, Charlie: H
+2
+Bella, Edward, Charlie, Jessica, Angela
+Jacob, Renee

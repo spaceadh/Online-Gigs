@@ -1,0 +1,30 @@
+Buffy, Willow, Xander, Giles, Angel, Spike, Faith, Dawn, Tara, Drusilla
+6
+Xander: H, Faith : H, Drusilla : V
+2
+Buffy, Angel
+Willow, Xander, Giles
+Buffy : H, Angel:V, Giles :H
+3
+Giles, Xander
+Buffy, Willow
+Angel, Spike
+Willow : H, Spike : V, Faith : H
+4
+Spike, Drusilla
+Willow, Xander, Giles, Buffy
+Angel, Tara
+Faith, Dawn
+##
+2
+Dawn, Buffy, Willow
+Angel, Xander, Giles
+Xander : H, Dawn : V, Buffy : V, Giles : H
+2
+Giles, Xander
+Willow, Buffy
+Willow : V, Faith : H
+3
+Willow, Buffy, Dawn
+Faith, Spike
+Tara, Angel
